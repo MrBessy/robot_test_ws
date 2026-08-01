@@ -1,0 +1,15 @@
+# ROS 2 generated folders
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# VS Code settings (optional)
+.vscode/
+
+# Virtual environments
+venv/
+.venv/
