@@ -25,6 +25,7 @@ setup(
     entry_points={
         'console_scripts': [
             'hello_robot = my_first_robot.hello_robot:main',
+            'time_listener = my_first_robot.time_listener:main',
         ],
     },
 )
